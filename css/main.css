@@ -1,0 +1,43 @@
+.currency {
+    margin: 0 auto;
+    width: 400px;
+}
+
+.currency__input {
+    border: 1px solid black;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.currency__select {
+    margin-left: 100px;
+}
+
+.currency__result {
+    font-size: 24px;
+    padding: 10px;
+    text-align: center;
+}
+
+.currency__select {
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.currency__button {
+    background-color: #111827;
+    border: 1px solid transparent;
+    border-radius: .75rem;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 12px;
+    width: 100px;
+    transition: background-color 0.2s ease;
+}
+
+.currency__button:hover {
+    background-color: #364669;
+}
+
+
+
